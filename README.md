@@ -1,13 +1,13 @@
 # PaywallSDK
 
 
-allprojects {
+	allprojects {
 		repositories {
 			...
 			maven { url 'https://jitpack.io' }
 		}
 	}
   
-  dependencies {
+  	dependencies {
 	        implementation 'com.github.serkanintranet:PaywallSDK:Tag'
 	}
