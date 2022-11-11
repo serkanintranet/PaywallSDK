@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PaywallLibrary</string>
+    <string name="base_url">https://dev.itspaywall.com/api/paywall/</string>
+</resources>
